@@ -10,7 +10,7 @@ cd redux-voting-express
 
 # Install server-side dependencies
 npm install
-npm build
+npm run build
 npm start
 
 # Install client-side dependencies
