@@ -30,7 +30,9 @@ startSocket(app, store);
 
 store.dispatch({
   type: 'SET_ENTRIES',
-  entries: require('./entries.json')
+  entries: require('./entries.json').map(function (e) {
+    return e.text;
+  })
 });
 
 store.dispatch({type: 'NEXT'});

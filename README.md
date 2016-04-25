@@ -24,3 +24,5 @@ webpack
 # Special Thanks
 
 A special thanks goes to @teropa for the amazing Full-Stack Redux Tutorial.
+And another thanks to @josephg for his
+[react-static-example](https://github.com/josephg/react-static-example).

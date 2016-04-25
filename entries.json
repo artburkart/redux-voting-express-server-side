@@ -1,13 +1,13 @@
 [
-  "Shallow Grave",
-  "Trainspotting",
-  "A Life Less Ordinary",
-  "The Beach",
-  "28 Days Later",
-  "Millions",
-  "Sunshine",
-  "Slumdog Millionaire",
-  "127 Hours",
-  "Trance",
-  "Steve Jobs"
+  {"text": "Shallow Grave"},
+  {"text": "Trainspotting"},
+  {"text": "A Life Less Ordinary"},
+  {"text": "The Beach"},
+  {"text": "28 Days Later"},
+  {"text": "Millions"},
+  {"text": "Sunshine"},
+  {"text": "Slumdog Millionaire"},
+  {"text": "127 Hours"},
+  {"text": "Trance"},
+  {"text": "Steve Jobs"}
 ]
